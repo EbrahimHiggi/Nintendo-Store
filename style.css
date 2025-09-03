@@ -762,7 +762,7 @@ body {
   }
 
   .online-box {
-    flex-direction: column;
+    display: block;
     text-align: center;
   }
   .online-box .content {

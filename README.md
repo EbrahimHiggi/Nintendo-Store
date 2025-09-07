@@ -1,4 +1,4 @@
-# Nintendo-Store 🎮
+# 🎮 Nintendo-Store
 
 A responsive replica of the official Nintendo Store website, built with HTML an CSS.
 

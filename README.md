@@ -23,8 +23,12 @@ HTML5 – Page structure
 CSS3 – Styling and responsiveness (Flexbox + Grid)
 
 # 📸 Screenshots
+### Homepage
+![Nintendo-store Homepage](./images/Nintendo.png)
 
-https://ebrahimhiggi.github.io/Nintendo-Store/
+🌐 Live Demo
+
+Check out the live version here: https://ebrahimhiggi.github.io/Nintendo-Store/
 
 # 📌 Notes
 

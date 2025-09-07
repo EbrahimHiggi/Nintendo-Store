@@ -24,6 +24,8 @@ CSS3 – Styling and responsiveness (Flexbox + Grid)
 
 # 📸 Screenshots
 
+https://ebrahimhiggi.github.io/Nintendo-Store/
+
 # 📌 Notes
 
 This is a practice project, not the official Nintendo website.
